@@ -1,6 +1,6 @@
 'use strict';
 let STORE='',BEST='';const SOUND='versearoo-sound-v2',RUN_LENGTH=100;
-let selectedVersion='kjv',difficulty='easy';const catalogs=new Map();
+let selectedVersion='esv',difficulty='easy';const catalogs=new Map();
 const $=id=>document.getElementById(id);
 const ui={chapter:$('chapterLabel'),round:$('roundLabel'),progress:$('progress'),score:$('score'),high:$('highScore'),cleared:$('cleared'),reference:$('reference'),source:$('sourceLabel'),puzzle:$('puzzle'),status:$('status'),hearts:$('hearts'),keyboard:$('keyboard'),next:$('continue'),reset:$('reset'),sound:$('soundToggle'),overlay:$('endScreen'),title:$('endTitle'),icon:$('endIcon'),message:$('endMessage'),answer:$('endAnswer'),endReference:$('endReference'),stats:$('endStats'),retry:$('retry'),again:$('playAgain'),newRun:$('newRun'),roo:$('roo'),smile:$('smile')};
 let collection=[],fingerprint='',state=null,loading=false,best=0,soundOn=true,audio=null,requestId=0;
@@ -80,6 +80,8 @@ async function init(){
    option.textContent=version.toUpperCase()+(option.disabled?' — awaiting verses':` — ${verses.length} verses`);
   }catch{option.disabled=true;option.textContent=version.toUpperCase()+' — unavailable';}
  }));
- updateSelection();$('startError').textContent=catalogs.get('kjv')?.length>=RUN_LENGTH?'':'No playable verse collection is available.';
+ const playable=[...catalogs.keys()].filter(version=>catalogs.get(version).length>=RUN_LENGTH);
+ if(!playable.includes($('versionChoice').value)&&playable.length)$('versionChoice').value=playable[0];
+ updateSelection();$('startError').textContent=playable.length?'':'No playable verse collection is available.';
 }
 window.__versearooTest={current:()=>({reference:entry().reference,verse:verse()}),currentVerse:()=>verse()};init();

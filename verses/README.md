@@ -1,7 +1,9 @@
 # Verse collections
 
 Add supplied verse text to `nlt.json`, `nkjv.json`, `esv.json`, and `niv.json`.
-These files are intentionally empty, not KJV text labeled as other translations.
+Each file currently contains 229 user-supplied verses. ESV is the default.
+The text is preserved from the uploaded files; structural validation does not
+establish independent verification against a publisher edition.
 
 Each file uses this structure (replace the placeholder text before use):
 

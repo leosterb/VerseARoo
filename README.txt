@@ -13,9 +13,9 @@ Hard: Hearts carry between rounds. One heart is earned every two solved verses,
 up to four. Losing all hearts ends the run; a new run starts with four hearts.
 High scores are tracked separately for every version and difficulty.
 
-KJV currently has 100 stored verses. NLT, NKJV, ESV, and NIV have empty collection
-files awaiting supplied text. See verses/README.md to add up to 500 verses per
-version. Versions become playable once at least 100 valid verses are present.
+ESV is the default selection. ESV, NLT, NKJV, and NIV each contain 229 user-supplied
+verses; KJV contains 100. Each run selects 100 unique entries. See verses/README.md
+to expand a collection toward 500 verses.
 
 Deploy index.html, app.js, game.css, mascot.bundle.js, verses.json, and the verses
 folder together. The 3D mascot falls back to SVG if WebGL is unavailable.

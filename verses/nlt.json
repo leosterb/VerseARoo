@@ -1,4 +1,921 @@
 {
   "translation": "nlt",
-  "verses": []
+  "verses": [
+    {
+      "reference": "John 3:16",
+      "verse": "For this is how God loved the world: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life."
+    },
+    {
+      "reference": "Philippians 4:13",
+      "verse": "For I can do everything through Christ, who gives me strength."
+    },
+    {
+      "reference": "Jeremiah 29:11",
+      "verse": "\"For I know the plans I have for you,\" says the Lord. \"They are plans for good and not for disaster, to give you a future and a hope.\""
+    },
+    {
+      "reference": "Romans 8:28",
+      "verse": "And we know that God causes everything to work together for the good of those who love God and are called according to his purpose for them."
+    },
+    {
+      "reference": "Proverbs 3:5",
+      "verse": "Trust in the Lord with all your heart; do not depend on your own understanding."
+    },
+    {
+      "reference": "Proverbs 3:6",
+      "verse": "Seek his will in all you do, and he will show you which path to take."
+    },
+    {
+      "reference": "Psalm 23:1",
+      "verse": "The Lord is my shepherd; I have all that I need."
+    },
+    {
+      "reference": "Psalm 23:4",
+      "verse": "Even when I walk through the darkest valley, I will not be afraid, for you are close beside me. Your rod and your staff protect and comfort me."
+    },
+    {
+      "reference": "Isaiah 40:31",
+      "verse": "But those who trust in the Lord will find new strength. They will soar high on wings like eagles. They will run and not grow weary. They will walk and not faint."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "verse": "Then Jesus said, \"Come to me, all of you who are weary and carry heavy burdens, and I will give you rest.\""
+    },
+    {
+      "reference": "Joshua 1:9",
+      "verse": "This is my command—be strong and courageous! Do not be afraid or discouraged. For the Lord your God is with you wherever you go."
+    },
+    {
+      "reference": "Romans 12:2",
+      "verse": "Don't copy the behavior and customs of this world, but let God transform you into a new person by changing the way you think. Then you will learn to know God's will for you, which is good and pleasing and perfect."
+    },
+    {
+      "reference": "Galatians 5:22",
+      "verse": "But the Holy Spirit produces this kind of fruit in our lives: love, joy, peace, patience, kindness, goodness, faithfulness,"
+    },
+    {
+      "reference": "1 Corinthians 13:4",
+      "verse": "Love is patient and kind. Love is not jealous or boastful or proud"
+    },
+    {
+      "reference": "1 Corinthians 13:13",
+      "verse": "Three things will last forever—faith, hope, and love—and the greatest of these is love."
+    },
+    {
+      "reference": "Psalm 46:1",
+      "verse": "God is our refuge and strength, always ready to help in times of trouble."
+    },
+    {
+      "reference": "Psalm 46:10",
+      "verse": "\"Be still, and know that I am God! I will be honored by every nation. I will be honored throughout the world.\""
+    },
+    {
+      "reference": "Matthew 6:33",
+      "verse": "Seek the Kingdom of God above all else, and live righteously, and he will give you everything you need."
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "verse": "For God has not given us a spirit of fear and timidity, but of power, love, and self-discipline."
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "verse": "Faith is the confidence that what we hope for will actually happen; it gives us assurance about things we cannot see."
+    },
+    {
+      "reference": "James 1:5",
+      "verse": "If you need wisdom, ask our generous God, and he will give it to you. He will not rebuke you for asking."
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "verse": "Give all your worries and cares to God, for he cares about you."
+    },
+    {
+      "reference": "Psalm 119:105",
+      "verse": "Your word is a lamp to guide my feet and a light for my path."
+    },
+    {
+      "reference": "John 14:6",
+      "verse": "Jesus told him, \"I am the way, the truth, and the life. No one can come to the Father except through me.\""
+    },
+    {
+      "reference": "John 14:27",
+      "verse": "\"I am leaving you with a gift—peace of mind and heart. And the peace I give is a gift the world cannot give. So don't be troubled or afraid.\""
+    },
+    {
+      "reference": "Romans 5:8",
+      "verse": "But God showed his great love for us by sending Christ to die for us while we were still sinners."
+    },
+    {
+      "reference": "Romans 6:23",
+      "verse": "For the wages of sin is death, but the free gift of God is eternal life through Christ Jesus our Lord."
+    },
+    {
+      "reference": "Romans 10:9",
+      "verse": "If you openly declare that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+    },
+    {
+      "reference": "Ephesians 2:8",
+      "verse": "God saved you by his grace when you believed. And you can't take credit for this; it is a gift from God."
+    },
+    {
+      "reference": "Ephesians 2:10",
+      "verse": "For we are God's masterpiece. He has created us anew in Christ Jesus, so we can do the good things he planned for us long ago."
+    },
+    {
+      "reference": "Philippians 4:6",
+      "verse": "Don't worry about anything; instead, pray about everything. Tell God what you need, and thank him for all he has done."
+    },
+    {
+      "reference": "Philippians 4:7",
+      "verse": "Then you will experience God's peace, which exceeds anything we can understand. His peace will guard your hearts and minds as you live in Christ Jesus."
+    },
+    {
+      "reference": "Philippians 4:8",
+      "verse": "And now, dear brothers and sisters, one final thing. Fix your thoughts on what is true, and honorable, and right, and pure, and lovely, and admirable. Think about things that are excellent and worthy of praise."
+    },
+    {
+      "reference": "Colossians 3:23",
+      "verse": "Work willingly at whatever you do, as though you were working for the Lord rather than for people."
+    },
+    {
+      "reference": "1 Thessalonians 5:16",
+      "verse": "Always be joyful."
+    },
+    {
+      "reference": "1 Thessalonians 5:17",
+      "verse": "Never stop praying."
+    },
+    {
+      "reference": "1 Thessalonians 5:18",
+      "verse": "Be thankful in all circumstances, for this is God's will for you who belong to Christ Jesus."
+    },
+    {
+      "reference": "2 Corinthians 5:17",
+      "verse": "This means that anyone who belongs to Christ has become a new person. The old life is gone; a new life has begun!"
+    },
+    {
+      "reference": "2 Corinthians 12:9",
+      "verse": "Each time he said, \"My grace is all you need. My power works best in weakness.\" So now I am glad to boast about my weaknesses, so that the power of Christ can work through me."
+    },
+    {
+      "reference": "Galatians 2:20",
+      "verse": "My old self has been crucified with Christ. It is no longer I who live, but Christ lives in me. So I live in this earthly body by trusting in the Son of God, who loved me and gave himself for me."
+    },
+    {
+      "reference": "Psalm 27:1",
+      "verse": "The Lord is my light and my salvation—so why should I be afraid? The Lord is my fortress, protecting me from danger, so why should I tremble?"
+    },
+    {
+      "reference": "Psalm 34:8",
+      "verse": "Taste and see that the Lord is good. Oh, the joys of those who take refuge in him!"
+    },
+    {
+      "reference": "Psalm 37:4",
+      "verse": "Take delight in the Lord, and he will give you your heart's desires."
+    },
+    {
+      "reference": "Psalm 55:22",
+      "verse": "Give your burdens to the Lord, and he will take care of you. He will not permit the godly to slip and fall."
+    },
+    {
+      "reference": "Psalm 91:1",
+      "verse": "Those who live in the shelter of the Most High will find rest in the shadow of the Almighty."
+    },
+    {
+      "reference": "Psalm 91:2",
+      "verse": "This I declare about the Lord: He alone is my refuge, my place of safety; he is my God, and I trust him."
+    },
+    {
+      "reference": "Psalm 121:1",
+      "verse": "I look up to the mountains—does my help come from there?"
+    },
+    {
+      "reference": "Psalm 121:2",
+      "verse": "My help comes from the Lord, who made heaven and earth!"
+    },
+    {
+      "reference": "Psalm 139:14",
+      "verse": "Thank you for making me so wonderfully complex! Your workmanship is marvelous—how well I know it."
+    },
+    {
+      "reference": "Proverbs 18:10",
+      "verse": "The name of the Lord is a strong fortress; the godly run to him and are safe."
+    },
+    {
+      "reference": "Isaiah 41:10",
+      "verse": "Don't be afraid, for I am with you. Don't be discouraged, for I am your God. I will strengthen you and help you. I will hold you up with my victorious right hand."
+    },
+    {
+      "reference": "Isaiah 53:5",
+      "verse": "But he was pierced for our rebellion, crushed for our sins. He was beaten so we could be whole. He was whipped so we could be healed."
+    },
+    {
+      "reference": "Jeremiah 33:3",
+      "verse": "Ask me and I will tell you remarkable secrets you do not know about things to come."
+    },
+    {
+      "reference": "Lamentations 3:22",
+      "verse": "The faithful love of the Lord never ends! His mercies never cease."
+    },
+    {
+      "reference": "Lamentations 3:23",
+      "verse": "Great is his faithfulness; his mercies begin afresh each morning."
+    },
+    {
+      "reference": "Micah 6:8",
+      "verse": "No, O people, the Lord has told you what is good, and this is what he requires of you: to do what is right, to love mercy, and to walk humbly with your God."
+    },
+    {
+      "reference": "Matthew 5:14",
+      "verse": "\"You are the light of the world—like a city on a hilltop that cannot be hidden.\""
+    },
+    {
+      "reference": "Matthew 5:16",
+      "verse": "In the same way, let your good deeds shine out for all to see, so that everyone will praise your heavenly Father."
+    },
+    {
+      "reference": "Matthew 6:34",
+      "verse": "So don't worry about tomorrow, for tomorrow will bring its own worries. Today's trouble is enough for today."
+    },
+    {
+      "reference": "Matthew 7:7",
+      "verse": "\"Keep on asking, and you will receive what you ask for. Keep on seeking, and you will find. Keep on knocking, and the door will be opened to you.\""
+    },
+    {
+      "reference": "Matthew 19:26",
+      "verse": "Jesus looked at them intently and said, \"Humanly speaking, it is impossible. But with God everything is possible.\""
+    },
+    {
+      "reference": "Matthew 28:19",
+      "verse": "Therefore, go and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit."
+    },
+    {
+      "reference": "Matthew 28:20",
+      "verse": "Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age."
+    },
+    {
+      "reference": "Mark 9:23",
+      "verse": "\"What do you mean, 'If I can'?\" Jesus asked. \"Anything is possible if a person believes.\""
+    },
+    {
+      "reference": "Mark 10:27",
+      "verse": "Jesus looked at them intently and said, \"Humanly speaking, it is impossible. But not with God. Everything is possible with God.\""
+    },
+    {
+      "reference": "Mark 12:30",
+      "verse": "And you must love the Lord your God with all your heart, all your soul, all your mind, and all your strength."
+    },
+    {
+      "reference": "Mark 12:31",
+      "verse": "The second is equally important: 'Love your neighbor as yourself.' No other commandment is greater than these."
+    },
+    {
+      "reference": "Luke 6:31",
+      "verse": "Do to others as you would like them to do to you."
+    },
+    {
+      "reference": "Luke 10:27",
+      "verse": "The man answered, \"'You must love the Lord your God with all your heart, all your soul, all your strength, and all your mind.' And, 'Love your neighbor as yourself.'\""
+    },
+    {
+      "reference": "John 1:1",
+      "verse": "In the beginning the Word already existed. The Word was with God, and the Word was God."
+    },
+    {
+      "reference": "John 1:12",
+      "verse": "But to all who believed him and accepted him, he gave the right to become children of God."
+    },
+    {
+      "reference": "John 8:12",
+      "verse": "Jesus spoke to the people once more and said, \"I am the light of the world. If you follow me, you won't have to walk in darkness, because you will have the light that leads to life.\""
+    },
+    {
+      "reference": "John 10:10",
+      "verse": "The thief's purpose is to steal and kill and destroy. My purpose is to give them a rich and satisfying life."
+    },
+    {
+      "reference": "John 11:25",
+      "verse": "Jesus told her, \"I am the resurrection and the life. Anyone who believes in me will live, even after dying.\""
+    },
+    {
+      "reference": "John 15:5",
+      "verse": "\"Yes, I am the vine; you are the branches. Those who remain in me, and I in them, will produce much fruit. For apart from me you can do nothing.\""
+    },
+    {
+      "reference": "John 15:13",
+      "verse": "There is no greater love than to lay down one's life for one's friends."
+    },
+    {
+      "reference": "John 16:33",
+      "verse": "I have told you all this so that you may have peace in me. Here on earth you will have many trials and sorrows. But take heart, because I have overcome the world."
+    },
+    {
+      "reference": "Acts 1:8",
+      "verse": "But you will receive power when the Holy Spirit comes upon you. And you will be my witnesses, telling people about me everywhere—in Jerusalem, throughout Judea, in Samaria, and to the ends of the earth."
+    },
+    {
+      "reference": "Acts 2:38",
+      "verse": "Peter replied, \"Each of you must repent of your sins and turn to God, and be baptized in the name of Jesus Christ for the forgiveness of your sins. Then you will receive the gift of the Holy Spirit.\""
+    },
+    {
+      "reference": "Acts 4:12",
+      "verse": "There is salvation in no one else! God has given no other name under heaven by which we must be saved."
+    },
+    {
+      "reference": "Romans 3:23",
+      "verse": "For everyone has sinned; we all fall short of God's glorious standard."
+    },
+    {
+      "reference": "Romans 5:1",
+      "verse": "Therefore, since we have been made right in God's sight by faith, we have peace with God because of what Jesus Christ our Lord has done for us."
+    },
+    {
+      "reference": "Romans 8:1",
+      "verse": "So now there is no condemnation for those who belong to Christ Jesus."
+    },
+    {
+      "reference": "Romans 8:31",
+      "verse": "What shall we say about such wonderful things as these? If God is for us, who can ever be against us?"
+    },
+    {
+      "reference": "Romans 8:38",
+      "verse": "And I am convinced that nothing can ever separate us from God's love. Neither death nor life, neither angels nor demons, neither our fears for today nor our worries about tomorrow—not even the powers of hell can separate us from God's love."
+    },
+    {
+      "reference": "Romans 8:39",
+      "verse": "No power in the sky above or in the earth below—indeed, nothing in all creation will ever be able to separate us from the love of God that is revealed in Christ Jesus our Lord."
+    },
+    {
+      "reference": "Romans 12:1",
+      "verse": "And so, dear brothers and sisters, I plead with you to give your bodies to God because of all he has done for you. Let them be a living and holy sacrifice—the kind he will find acceptable. This is truly the way to worship him."
+    },
+    {
+      "reference": "Romans 15:13",
+      "verse": "I pray that God, the source of hope, will fill you completely with joy and peace because you trust in him. Then you will overflow with confident hope through the power of the Holy Spirit."
+    },
+    {
+      "reference": "1 Corinthians 10:13",
+      "verse": "The temptations in your life are no different from what others experience. And God is faithful. He will not allow the temptation to be more than you can stand. When you are tempted, he will show you a way out so that you can endure."
+    },
+    {
+      "reference": "1 Corinthians 15:57",
+      "verse": "But thank God! He gives us victory over sin and death through our Lord Jesus Christ."
+    },
+    {
+      "reference": "2 Corinthians 5:7",
+      "verse": "For we live by believing and not by seeing."
+    },
+    {
+      "reference": "2 Corinthians 9:7",
+      "verse": "You must each decide in your heart how much to give. And don't give reluctantly or in response to pressure. \"For God loves a person who gives cheerfully.\""
+    },
+    {
+      "reference": "Galatians 5:1",
+      "verse": "So Christ has truly set us free. Now make sure that you stay free, and don't get tied up again in slavery to the law."
+    },
+    {
+      "reference": "Ephesians 1:7",
+      "verse": "He is so rich in kindness and grace that he purchased our freedom with the blood of his Son and forgave our sins."
+    },
+    {
+      "reference": "Ephesians 3:20",
+      "verse": "Now all glory to God, who is able, through his mighty power at work within us, to accomplish infinitely more than we might ask or think."
+    },
+    {
+      "reference": "Ephesians 4:32",
+      "verse": "Instead, be kind to each other, tenderhearted, forgiving one another, just as God through Christ has forgiven you."
+    },
+    {
+      "reference": "Ephesians 6:10",
+      "verse": "A final word: Be strong in the Lord and in his mighty power."
+    },
+    {
+      "reference": "Ephesians 6:11",
+      "verse": "Put on all of God's armor so that you will be able to stand firm against all strategies of the devil."
+    },
+    {
+      "reference": "Philippians 1:6",
+      "verse": "And I am certain that God, who began the good work within you, will continue his work until it is finally finished on the day when Christ Jesus returns."
+    },
+    {
+      "reference": "Philippians 2:3",
+      "verse": "Don't be selfish; don't try to impress others. Be humble, thinking of others as better than yourselves."
+    },
+    {
+      "reference": "Philippians 2:4",
+      "verse": "Don't look out only for your own interests, but take an interest in others, too."
+    },
+    {
+      "reference": "Philippians 4:19",
+      "verse": "And this same God who takes care of me will supply all your needs from his glorious riches, which have been given to us in Christ Jesus."
+    },
+    {
+      "reference": "Colossians 3:2",
+      "verse": "Think about the things of heaven, not the things of earth."
+    },
+    {
+      "reference": "Colossians 3:12",
+      "verse": "Since God chose you to be the holy people he loves, you must clothe yourselves with tenderhearted mercy, kindness, humility, gentleness, and patience."
+    },
+    {
+      "reference": "Colossians 3:13",
+      "verse": "Make allowance for each other's faults, and forgive anyone who offends you. Remember, the Lord forgave you, so you must forgive others."
+    },
+    {
+      "reference": "Colossians 3:14",
+      "verse": "Above all, clothe yourselves with love, which binds us all together in perfect harmony."
+    },
+    {
+      "reference": "1 Thessalonians 5:11",
+      "verse": "So encourage each other and build each other up, just as you are already doing."
+    },
+    {
+      "reference": "2 Thessalonians 3:3",
+      "verse": "But the Lord is faithful; he will strengthen you and guard you from the evil one."
+    },
+    {
+      "reference": "1 Timothy 4:12",
+      "verse": "Don't let anyone think less of you because you are young. Be an example to all believers in what you say, in the way you live, in your love, your faith, and your purity."
+    },
+    {
+      "reference": "2 Timothy 3:16",
+      "verse": "All Scripture is inspired by God and is useful to teach us what is true and to make us realize what is wrong in our lives. It corrects us when we are wrong and teaches us to do what is right."
+    },
+    {
+      "reference": "Hebrews 4:12",
+      "verse": "For the word of God is alive and powerful. It is sharper than the sharpest two-edged sword, cutting between soul and spirit, between joint and marrow. It exposes our innermost thoughts and desires."
+    },
+    {
+      "reference": "Hebrews 4:16",
+      "verse": "So let us come boldly to the throne of our gracious God. There we will receive his mercy, and we will find grace to help us when we need it most."
+    },
+    {
+      "reference": "Hebrews 12:2",
+      "verse": "We do this by keeping our eyes on Jesus, the champion who initiates and perfects our faith. Because of the joy awaiting him, he endured the cross, disregarding its shame. Now he is seated in the place of honor beside God's throne."
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "verse": "Don't love money; be satisfied with what you have. For God has said, \"I will never fail you. I will never abandon you.\""
+    },
+    {
+      "reference": "Hebrews 13:8",
+      "verse": "Jesus Christ is the same yesterday, today, and forever."
+    },
+    {
+      "reference": "James 1:2",
+      "verse": "Dear brothers and sisters, when troubles of any kind come your way, consider it an opportunity for great joy."
+    },
+    {
+      "reference": "James 1:3",
+      "verse": "For you know that when your faith is tested, your endurance has a chance to grow."
+    },
+    {
+      "reference": "James 1:12",
+      "verse": "God blesses those who patiently endure testing and temptation. Afterward they will receive the crown of life that God has promised to those who love him."
+    },
+    {
+      "reference": "James 4:7",
+      "verse": "So humble yourselves before God. Resist the devil, and he will flee from you."
+    },
+    {
+      "reference": "James 4:8",
+      "verse": "Come close to God, and God will come close to you. Wash your hands, you sinners; purify your hearts, for your loyalty is divided between God and the world."
+    },
+    {
+      "reference": "James 5:16",
+      "verse": "Confess your sins to each other and pray for each other so that you may be healed. The earnest prayer of a righteous person has great power and produces wonderful results."
+    },
+    {
+      "reference": "1 Peter 2:9",
+      "verse": "But you are not like that, for you are a chosen people. You are royal priests, a holy nation, God's very own possession. As a result, you can show others the goodness of God, for he called you out of the darkness into his wonderful light."
+    },
+    {
+      "reference": "1 Peter 3:15",
+      "verse": "Instead, you must worship Christ as Lord of your life. And if someone asks about your hope as a believer, always be ready to explain it."
+    },
+    {
+      "reference": "1 Peter 5:8",
+      "verse": "Stay alert! Watch out for your great enemy, the devil. He prowls around like a roaring lion, looking for someone to devour."
+    },
+    {
+      "reference": "1 Peter 5:10",
+      "verse": "In his kindness God called you to share in his eternal glory by means of Christ Jesus. So after you have suffered a little while, he will restore, support, and strengthen you, and he will place you on a firm foundation."
+    },
+    {
+      "reference": "2 Peter 3:9",
+      "verse": "The Lord isn't really being slow about his promise, as some people think. No, he is being patient for your sake. He does not want anyone to be destroyed, but wants everyone to repent."
+    },
+    {
+      "reference": "1 John 1:9",
+      "verse": "But if we confess our sins to him, he is faithful and just to forgive us our sins and to cleanse us from all wickedness."
+    },
+    {
+      "reference": "1 John 3:1",
+      "verse": "See how very much our Father loves us, for he calls us his children, and that is what we are! But the people who belong to this world don't recognize that we are God's children because they don't know him."
+    },
+    {
+      "reference": "1 John 4:4",
+      "verse": "But you belong to God, my dear children. You have already won a victory over those people, because the Spirit who lives in you is greater than the spirit who lives in the world."
+    },
+    {
+      "reference": "1 John 4:7",
+      "verse": "Dear friends, let us continue to love one another, for love comes from God. Anyone who loves is a child of God and knows God."
+    },
+    {
+      "reference": "1 John 4:8",
+      "verse": "But anyone who does not love does not know God, for God is love."
+    },
+    {
+      "reference": "1 John 4:18",
+      "verse": "Such love has no fear, because perfect love expels all fear. If we are afraid, it is for fear of punishment, and this shows that we have not fully experienced his perfect love."
+    },
+    {
+      "reference": "1 John 4:19",
+      "verse": "We love each other because he loved us first."
+    },
+    {
+      "reference": "1 John 5:14",
+      "verse": "And we are confident that he hears us whenever we ask for anything that pleases him."
+    },
+    {
+      "reference": "Revelation 3:20",
+      "verse": "\"Look! I stand at the door and knock. If you hear my voice and open the door, I will come in, and we will share a meal together as friends.\""
+    },
+    {
+      "reference": "Revelation 21:4",
+      "verse": "He will wipe every tear from their eyes, and there will be no more death or sorrow or crying or pain. All these things are gone forever."
+    },
+    {
+      "reference": "Genesis 1:1",
+      "verse": "In the beginning God created the heavens and the earth."
+    },
+    {
+      "reference": "Genesis 1:27",
+      "verse": "So God created human beings in his own image. In the image of God he created them; male and female he created them."
+    },
+    {
+      "reference": "Exodus 14:14",
+      "verse": "The Lord himself will fight for you. Just stay calm."
+    },
+    {
+      "reference": "Exodus 20:12",
+      "verse": "\"Honor your father and mother. Then you will live a long, full life in the land the Lord your God is giving you.\""
+    },
+    {
+      "reference": "Numbers 6:24",
+      "verse": "May the Lord bless you and protect you."
+    },
+    {
+      "reference": "Numbers 6:25",
+      "verse": "May the Lord smile on you and be gracious to you."
+    },
+    {
+      "reference": "Numbers 6:26",
+      "verse": "May the Lord show you his favor and give you his peace."
+    },
+    {
+      "reference": "Deuteronomy 6:5",
+      "verse": "And you must love the Lord your God with all your heart, all your soul, and all your strength."
+    },
+    {
+      "reference": "Deuteronomy 31:6",
+      "verse": "So be strong and courageous! Do not be afraid and do not panic before them. For the Lord your God will personally go ahead of you. He will neither fail you nor abandon you."
+    },
+    {
+      "reference": "Deuteronomy 31:8",
+      "verse": "Do not be afraid or discouraged, for the Lord will personally go ahead of you. He will be with you; he will neither fail you nor abandon you."
+    },
+    {
+      "reference": "Joshua 1:8",
+      "verse": "Study this Book of Instruction continually. Meditate on it day and night so you will be sure to obey everything written in it. Only then will you prosper and succeed in all you do."
+    },
+    {
+      "reference": "1 Samuel 16:7",
+      "verse": "But the Lord said to Samuel, \"Don't judge by his appearance or height, for I have rejected him. The Lord doesn't see things the way you see them. People judge by outward appearance, but the Lord looks at the heart.\""
+    },
+    {
+      "reference": "2 Chronicles 7:14",
+      "verse": "Then if my people who are called by my name will humble themselves and pray and seek my face and turn from their wicked ways, I will hear from heaven and will forgive their sins and restore their land."
+    },
+    {
+      "reference": "Nehemiah 8:10",
+      "verse": "And Nehemiah continued, \"Go and celebrate with a feast of rich foods and sweet drinks, and share gifts of food with people who have nothing prepared. This is a sacred day before our Lord. Don't be dejected and sad, for the joy of the Lord is your strength!\""
+    },
+    {
+      "reference": "Job 19:25",
+      "verse": "\"But as for me, I know that my Redeemer lives, and he will stand upon the earth at last.\""
+    },
+    {
+      "reference": "Psalm 1:1",
+      "verse": "Oh, the joys of those who do not follow the advice of the wicked, or stand around with sinners, or join in with mockers."
+    },
+    {
+      "reference": "Psalm 1:2",
+      "verse": "But they delight in the law of the Lord, meditating on it day and night."
+    },
+    {
+      "reference": "Psalm 1:3",
+      "verse": "They are like trees planted along the riverbank, bearing fruit each season. Their leaves never wither, and they prosper in all they do."
+    },
+    {
+      "reference": "Psalm 4:8",
+      "verse": "In peace I will lie down and sleep, for you alone, O Lord, will keep me safe."
+    },
+    {
+      "reference": "Psalm 16:11",
+      "verse": "You will show me the way of life, granting me the joy of your presence and the pleasures of living with you forever."
+    },
+    {
+      "reference": "Psalm 19:1",
+      "verse": "The heavens proclaim the glory of God. The skies display his craftsmanship."
+    },
+    {
+      "reference": "Psalm 19:14",
+      "verse": "May the words of my mouth and the meditation of my heart be pleasing to you, O Lord, my rock and my redeemer."
+    },
+    {
+      "reference": "Psalm 28:7",
+      "verse": "The Lord is my strength and shield. I trust him with all my heart. He helps me, and my heart is filled with joy. I burst out in songs of thanksgiving."
+    },
+    {
+      "reference": "Psalm 30:5",
+      "verse": "For his anger lasts only a moment, but his favor lasts a lifetime! Weeping may last through the night, but joy comes with the morning."
+    },
+    {
+      "reference": "Psalm 32:8",
+      "verse": "The Lord says, \"I will guide you along the best pathway for your life. I will advise you and watch over you.\""
+    },
+    {
+      "reference": "Psalm 34:18",
+      "verse": "The Lord is close to the brokenhearted; he rescues those whose spirits are crushed."
+    },
+    {
+      "reference": "Psalm 40:1",
+      "verse": "I waited patiently for the Lord to help me, and he turned to me and heard my cry."
+    },
+    {
+      "reference": "Psalm 42:1",
+      "verse": "As the deer longs for streams of water, so I long for you, O God."
+    },
+    {
+      "reference": "Psalm 51:10",
+      "verse": "Create in me a clean heart, O God. Renew a loyal spirit within me."
+    },
+    {
+      "reference": "Psalm 62:1",
+      "verse": "I wait quietly before God, for my victory comes from him."
+    },
+    {
+      "reference": "Psalm 62:2",
+      "verse": "He alone is my rock and my salvation, my fortress where I will never be shaken."
+    },
+    {
+      "reference": "Psalm 63:1",
+      "verse": "O God, you are my God; I earnestly search for you. My soul thirsts for you; my whole body longs for you in this parched and weary land where there is no water."
+    },
+    {
+      "reference": "Psalm 86:15",
+      "verse": "But you, O Lord, are a God of compassion and mercy, slow to get angry and filled with unfailing love and faithfulness."
+    },
+    {
+      "reference": "Psalm 90:12",
+      "verse": "Teach us to realize the brevity of life, so that we may grow in wisdom."
+    },
+    {
+      "reference": "Psalm 100:1",
+      "verse": "Shout with joy to the Lord, all the earth!"
+    },
+    {
+      "reference": "Psalm 100:2",
+      "verse": "Worship the Lord with gladness. Come before him, singing with joy."
+    },
+    {
+      "reference": "Psalm 100:3",
+      "verse": "Acknowledge that the Lord is God! He made us, and we are his. We are his people, the sheep of his pasture."
+    },
+    {
+      "reference": "Psalm 100:4",
+      "verse": "Enter his gates with thanksgiving; go into his courts with praise. Give thanks to him and praise his name."
+    },
+    {
+      "reference": "Psalm 100:5",
+      "verse": "For the Lord is good. His unfailing love continues forever, and his faithfulness continues to each generation."
+    },
+    {
+      "reference": "Psalm 103:1",
+      "verse": "Let all that I am praise the Lord; with my whole heart, I will praise his holy name."
+    },
+    {
+      "reference": "Psalm 103:2",
+      "verse": "Let all that I am praise the Lord; may I never forget the good things he does for me."
+    },
+    {
+      "reference": "Psalm 103:12",
+      "verse": "He has removed our sins as far from us as the east is from the west."
+    },
+    {
+      "reference": "Psalm 118:24",
+      "verse": "This is the day the Lord has made. We will rejoice and be glad in it."
+    },
+    {
+      "reference": "Psalm 136:1",
+      "verse": "Give thanks to the Lord, for he is good! His faithful love endures forever."
+    },
+    {
+      "reference": "Psalm 138:8",
+      "verse": "The Lord will work out his plans for my life—for your faithful love, O Lord, endures forever. Don't abandon me, for you made me."
+    },
+    {
+      "reference": "Psalm 139:1",
+      "verse": "O Lord, you have examined my heart and know everything about me."
+    },
+    {
+      "reference": "Psalm 139:2",
+      "verse": "You know when I sit down or stand up. You know my thoughts even when I'm far away."
+    },
+    {
+      "reference": "Psalm 139:3",
+      "verse": "You see me when I travel and when I rest at home. You know everything I do."
+    },
+    {
+      "reference": "Psalm 139:4",
+      "verse": "You know what I am going to say even before I say it, Lord."
+    },
+    {
+      "reference": "Psalm 139:5",
+      "verse": "You go before me and follow me. You place your hand of blessing on my head."
+    },
+    {
+      "reference": "Psalm 139:6",
+      "verse": "Such knowledge is too wonderful for me, too great for me to understand!"
+    },
+    {
+      "reference": "Psalm 139:7",
+      "verse": "I can never escape from your Spirit! I can never get away from your presence!"
+    },
+    {
+      "reference": "Psalm 139:8",
+      "verse": "If I go up to heaven, you are there; if I go down to the grave, you are there."
+    },
+    {
+      "reference": "Psalm 139:9",
+      "verse": "If I ride the wings of the morning, if I dwell by the farthest oceans,"
+    },
+    {
+      "reference": "Psalm 139:10",
+      "verse": "even there your hand will guide me, and your strength will support me."
+    },
+    {
+      "reference": "Psalm 139:13",
+      "verse": "You made all the delicate, inner parts of my body and knit me together in my mother's womb."
+    },
+    {
+      "reference": "Psalm 139:15",
+      "verse": "You watched me as I was being formed in utter seclusion, as I was woven together in the dark of the womb."
+    },
+    {
+      "reference": "Psalm 139:16",
+      "verse": "You saw me before I was born. Every day of my life was recorded in your book. Every moment was laid out before a single day had passed."
+    },
+    {
+      "reference": "Psalm 139:17",
+      "verse": "How precious are your thoughts about me, O God. They cannot be numbered!"
+    },
+    {
+      "reference": "Psalm 139:18",
+      "verse": "I can't even count them; they outnumber the grains of sand! And when I wake up, you are still with me!"
+    },
+    {
+      "reference": "Psalm 143:8",
+      "verse": "Let me hear of your unfailing love each morning, for I am trusting you. Show me where to walk, for I give myself to you."
+    },
+    {
+      "reference": "Psalm 145:18",
+      "verse": "The Lord is close to all who call on him, yes, to all who call on him in truth."
+    },
+    {
+      "reference": "Psalm 147:3",
+      "verse": "He heals the brokenhearted and bandages their wounds."
+    },
+    {
+      "reference": "Proverbs 4:23",
+      "verse": "Guard your heart above all else, for it determines the course of your life."
+    },
+    {
+      "reference": "Proverbs 12:25",
+      "verse": "Worry weighs a person down; an encouraging word cheers a person up."
+    },
+    {
+      "reference": "Proverbs 15:1",
+      "verse": "A gentle answer deflects anger, but harsh words make tempers flare."
+    },
+    {
+      "reference": "Proverbs 16:3",
+      "verse": "Commit your actions to the Lord, and your plans will succeed."
+    },
+    {
+      "reference": "Proverbs 16:9",
+      "verse": "We can make our plans, but the Lord determines our steps."
+    },
+    {
+      "reference": "Proverbs 17:17",
+      "verse": "A friend is always loyal, and a brother is born to help in time of need."
+    },
+    {
+      "reference": "Proverbs 22:6",
+      "verse": "Direct your children onto the right path, and when they are older, they will not leave it."
+    },
+    {
+      "reference": "Proverbs 27:17",
+      "verse": "As iron sharpens iron, so a friend sharpens a friend."
+    },
+    {
+      "reference": "Proverbs 31:25",
+      "verse": "She is clothed with strength and dignity, and she laughs without fear of the future."
+    },
+    {
+      "reference": "Ecclesiastes 3:1",
+      "verse": "For everything there is a season, a time for every activity under heaven."
+    },
+    {
+      "reference": "Ecclesiastes 4:9",
+      "verse": "Two people are better off than one, for they can help each other succeed."
+    },
+    {
+      "reference": "Ecclesiastes 4:12",
+      "verse": "A person standing alone can be attacked and defeated, but two can stand back-to-back and conquer. Three are even better, for a triple-braided cord is not easily broken."
+    },
+    {
+      "reference": "Song of Songs 8:7",
+      "verse": "Many waters cannot quench love, nor can rivers drown it. If a man tried to buy love with all his wealth, his offer would be utterly scorned."
+    },
+    {
+      "reference": "Isaiah 9:6",
+      "verse": "For a child is born to us, a son is given to us. The government will rest on his shoulders. And he will be called: Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace."
+    },
+    {
+      "reference": "Isaiah 26:3",
+      "verse": "You will keep in perfect peace all who trust in you, all whose thoughts are fixed on you!"
+    },
+    {
+      "reference": "Isaiah 40:8",
+      "verse": "The grass withers and the flowers fade, but the word of our God stands forever."
+    },
+    {
+      "reference": "Isaiah 43:2",
+      "verse": "When you go through deep waters, I will be with you. When you go through rivers of difficulty, you will not drown. When you walk through the fire of oppression, you will not be burned up; the flames will not consume you."
+    },
+    {
+      "reference": "Isaiah 43:19",
+      "verse": "For I am about to do something new. See, I have already begun! Do you not see it? I will make a pathway through the wilderness. I will create rivers in the dry wasteland."
+    },
+    {
+      "reference": "Isaiah 55:8",
+      "verse": "\"My thoughts are nothing like your thoughts,\" says the Lord. \"And my ways are far beyond anything you could imagine.\""
+    },
+    {
+      "reference": "Isaiah 55:9",
+      "verse": "For just as the heavens are higher than the earth, so my ways are higher than your ways and my thoughts higher than your thoughts."
+    },
+    {
+      "reference": "Isaiah 58:11",
+      "verse": "The Lord will guide you continually, giving you water when you are dry and restoring your strength. You will be like a well-watered garden, like an ever-flowing spring."
+    },
+    {
+      "reference": "Jeremiah 17:7",
+      "verse": "\"But blessed are those who trust in the Lord and have made the Lord their hope and confidence.\""
+    },
+    {
+      "reference": "Jeremiah 17:8",
+      "verse": "They are like trees planted along a riverbank, with roots that reach deep into the water. Such trees are not bothered by the heat or worried by long months of drought. Their leaves stay green, and they never stop producing fruit."
+    },
+    {
+      "reference": "Jeremiah 31:3",
+      "verse": "Long ago the Lord said to Israel: \"I have loved you, my people, with an everlasting love. With unfailing love I have drawn you to myself.\""
+    },
+    {
+      "reference": "Joel 2:25",
+      "verse": "The Lord says, \"I will give you back what you lost to the swarming locusts, the hopping locusts, the stripping locusts, and the cutting locusts. It was I who sent this great destroying army against you.\""
+    },
+    {
+      "reference": "Nahum 1:7",
+      "verse": "The Lord is good, a strong refuge when trouble comes. He is close to those who trust in him."
+    },
+    {
+      "reference": "Habakkuk 3:19",
+      "verse": "The Sovereign Lord is my strength! He makes me as surefooted as a deer, able to tread upon the heights."
+    },
+    {
+      "reference": "Zephaniah 3:17",
+      "verse": "For the Lord your God is living among you. He is a mighty savior. He will take delight in you with gladness. With his love, he will calm all your fears. He will rejoice over you with joyful songs."
+    },
+    {
+      "reference": "Zechariah 4:6",
+      "verse": "Then he said to me, \"This is what the Lord says to Zerubbabel: It is not by force nor by strength, but by my Spirit, says the Lord of Heaven's Armies.\""
+    },
+    {
+      "reference": "Malachi 3:10",
+      "verse": "Bring all the tithes into the storehouse so there will be enough food in my Temple. If you do,\" says the Lord of Heaven's Armies, \"I will open the windows of heaven for you. I will pour out a blessing so great you won't have enough room to take it in! Try it! Put me to the test!\""
+    }
+  ]
 }
