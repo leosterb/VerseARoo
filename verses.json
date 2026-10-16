@@ -1,0 +1,406 @@
+{
+  "translation": "kjv",
+  "source": "King James Version (public domain)",
+  "verses": [
+    {
+      "reference": "Genesis 1:1",
+      "verse": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "reference": "Genesis 1:3",
+      "verse": "And God said, Let there be light: and there was light."
+    },
+    {
+      "reference": "Exodus 14:14",
+      "verse": "The Lord shall fight for you, and ye shall hold your peace."
+    },
+    {
+      "reference": "Proverbs 3:5",
+      "verse": "Trust in the Lord with all thine heart; and lean not unto thine own understanding."
+    },
+    {
+      "reference": "Proverbs 3:6",
+      "verse": "In all thy ways acknowledge him, and he shall direct thy paths."
+    },
+    {
+      "reference": "Proverbs 4:23",
+      "verse": "Keep thy heart with all diligence; for out of it are the issues of life."
+    },
+    {
+      "reference": "Proverbs 10:12",
+      "verse": "Hatred stirreth up strifes: but love covereth all sins."
+    },
+    {
+      "reference": "Proverbs 15:1",
+      "verse": "A soft answer turneth away wrath: but grievous words stir up anger."
+    },
+    {
+      "reference": "Proverbs 16:3",
+      "verse": "Commit thy works unto the Lord, and thy thoughts shall be established."
+    },
+    {
+      "reference": "Proverbs 17:17",
+      "verse": "A friend loveth at all times, and a brother is born for adversity."
+    },
+    {
+      "reference": "Proverbs 18:10",
+      "verse": "The name of the Lord is a strong tower: the righteous runneth into it, and is safe."
+    },
+    {
+      "reference": "Ecclesiastes 3:1",
+      "verse": "To every thing there is a season, and a time to every purpose under the heaven:"
+    },
+    {
+      "reference": "Ecclesiastes 4:9",
+      "verse": "Two are better than one; because they have a good reward for their labour."
+    },
+    {
+      "reference": "Isaiah 26:3",
+      "verse": "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee."
+    },
+    {
+      "reference": "Isaiah 55:6",
+      "verse": "Seek ye the Lord while he may be found, call ye upon him while he is near:"
+    },
+    {
+      "reference": "Lamentations 3:23",
+      "verse": "They are new every morning: great is thy faithfulness."
+    },
+    {
+      "reference": "Matthew 5:8",
+      "verse": "Blessed are the pure in heart: for they shall see God."
+    },
+    {
+      "reference": "Matthew 5:9",
+      "verse": "Blessed are the peacemakers: for they shall be called the children of God."
+    },
+    {
+      "reference": "Matthew 6:21",
+      "verse": "For where your treasure is, there will your heart be also."
+    },
+    {
+      "reference": "Matthew 7:7",
+      "verse": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:"
+    },
+    {
+      "reference": "Matthew 11:30",
+      "verse": "For my yoke is easy, and my burden is light."
+    },
+    {
+      "reference": "Matthew 22:39",
+      "verse": "And the second is like unto it, Thou shalt love thy neighbour as thyself."
+    },
+    {
+      "reference": "Luke 6:31",
+      "verse": "And as ye would that men should do to you, do ye also to them likewise."
+    },
+    {
+      "reference": "John 1:5",
+      "verse": "And the light shineth in darkness; and the darkness comprehended it not."
+    },
+    {
+      "reference": "John 10:11",
+      "verse": "I am the good shepherd: the good shepherd giveth his life for the sheep."
+    },
+    {
+      "reference": "John 11:35",
+      "verse": "Jesus wept."
+    },
+    {
+      "reference": "John 13:35",
+      "verse": "By this shall all men know that ye are my disciples, if ye have love one to another."
+    },
+    {
+      "reference": "Romans 8:31",
+      "verse": "What shall we then say to these things? If God be for us, who can be against us?"
+    },
+    {
+      "reference": "Romans 10:13",
+      "verse": "For whosoever shall call upon the name of the Lord shall be saved."
+    },
+    {
+      "reference": "Romans 12:21",
+      "verse": "Be not overcome of evil, but overcome evil with good."
+    },
+    {
+      "reference": "1 Corinthians 16:14",
+      "verse": "Let all your things be done with charity."
+    },
+    {
+      "reference": "2 Corinthians 5:7",
+      "verse": "(For we walk by faith, not by sight:)"
+    },
+    {
+      "reference": "Philippians 4:4",
+      "verse": "Rejoice in the Lord always: and again I say, Rejoice."
+    },
+    {
+      "reference": "Philippians 4:13",
+      "verse": "I can do all things through Christ which strengtheneth me."
+    },
+    {
+      "reference": "Colossians 3:2",
+      "verse": "Set your affection on things above, not on things on the earth."
+    },
+    {
+      "reference": "Colossians 3:23",
+      "verse": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;"
+    },
+    {
+      "reference": "1 Thessalonians 5:16",
+      "verse": "Rejoice evermore."
+    },
+    {
+      "reference": "1 Thessalonians 5:17",
+      "verse": "Pray without ceasing."
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "verse": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+    },
+    {
+      "reference": "Hebrews 13:8",
+      "verse": "Jesus Christ the same yesterday, and to day, and for ever."
+    },
+    {
+      "reference": "1 Peter 5:7",
+      "verse": "Casting all your care upon him; for he careth for you."
+    },
+    {
+      "reference": "1 John 4:8",
+      "verse": "He that loveth not knoweth not God; for God is love."
+    },
+    {
+      "reference": "1 John 4:19",
+      "verse": "We love him, because he first loved us."
+    },
+    {
+      "reference": "Psalms 23:1",
+      "verse": "The Lord is my shepherd; I shall not want."
+    },
+    {
+      "reference": "Psalms 34:8",
+      "verse": "O taste and see that the Lord is good: blessed is the man that trusteth in him."
+    },
+    {
+      "reference": "Psalms 46:1",
+      "verse": "God is our refuge and strength, a very present help in trouble."
+    },
+    {
+      "reference": "Psalms 56:3",
+      "verse": "What time I am afraid, I will trust in thee."
+    },
+    {
+      "reference": "Psalms 119:105",
+      "verse": "Thy word is a lamp unto my feet, and a light unto my path."
+    },
+    {
+      "reference": "Psalms 121:2",
+      "verse": "My help cometh from the Lord, which made heaven and earth."
+    },
+    {
+      "reference": "Psalms 133:1",
+      "verse": "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+    },
+    {
+      "reference": "Genesis 9:13",
+      "verse": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+    },
+    {
+      "reference": "Genesis 50:20",
+      "verse": "But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive."
+    },
+    {
+      "reference": "Exodus 20:12",
+      "verse": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee."
+    },
+    {
+      "reference": "Numbers 6:24",
+      "verse": "The Lord bless thee, and keep thee:"
+    },
+    {
+      "reference": "Numbers 6:26",
+      "verse": "The Lord lift up his countenance upon thee, and give thee peace."
+    },
+    {
+      "reference": "Deuteronomy 6:5",
+      "verse": "And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might."
+    },
+    {
+      "reference": "Joshua 1:9",
+      "verse": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest."
+    },
+    {
+      "reference": "Job 19:25",
+      "verse": "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
+    },
+    {
+      "reference": "Psalms 19:1",
+      "verse": "The heavens declare the glory of God; and the firmament sheweth his handywork."
+    },
+    {
+      "reference": "Psalms 23:4",
+      "verse": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+    },
+    {
+      "reference": "Psalms 27:1",
+      "verse": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?"
+    },
+    {
+      "reference": "Psalms 37:4",
+      "verse": "Delight thyself also in the Lord: and he shall give thee the desires of thine heart."
+    },
+    {
+      "reference": "Psalms 46:10",
+      "verse": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+    },
+    {
+      "reference": "Psalms 51:10",
+      "verse": "Create in me a clean heart, O God; and renew a right spirit within me."
+    },
+    {
+      "reference": "Psalms 100:5",
+      "verse": "For the Lord is good; his mercy is everlasting; and his truth endureth to all generations."
+    },
+    {
+      "reference": "Psalms 118:24",
+      "verse": "This is the day which the Lord hath made; we will rejoice and be glad in it."
+    },
+    {
+      "reference": "Psalms 139:14",
+      "verse": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well."
+    },
+    {
+      "reference": "Psalms 150:6",
+      "verse": "Let every thing that hath breath praise the Lord. Praise ye the Lord."
+    },
+    {
+      "reference": "Proverbs 3:7",
+      "verse": "Be not wise in thine own eyes: fear the Lord, and depart from evil."
+    },
+    {
+      "reference": "Proverbs 16:9",
+      "verse": "A man's heart deviseth his way: but the Lord directeth his steps."
+    },
+    {
+      "reference": "Proverbs 27:17",
+      "verse": "Iron sharpeneth iron; so a man sharpeneth the countenance of his friend."
+    },
+    {
+      "reference": "Isaiah 40:31",
+      "verse": "But they that wait upon the Lord shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary; and they shall walk, and not faint."
+    },
+    {
+      "reference": "Jeremiah 29:11",
+      "verse": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end."
+    },
+    {
+      "reference": "Micah 6:8",
+      "verse": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+    },
+    {
+      "reference": "Nahum 1:7",
+      "verse": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+    },
+    {
+      "reference": "Matthew 5:14",
+      "verse": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+    },
+    {
+      "reference": "Matthew 6:33",
+      "verse": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "verse": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+    },
+    {
+      "reference": "Mark 10:27",
+      "verse": "And Jesus looking upon them saith, With men it is impossible, but not with God: for with God all things are possible."
+    },
+    {
+      "reference": "Luke 1:37",
+      "verse": "For with God nothing shall be impossible."
+    },
+    {
+      "reference": "John 3:16",
+      "verse": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    },
+    {
+      "reference": "John 14:6",
+      "verse": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me."
+    },
+    {
+      "reference": "John 15:12",
+      "verse": "This is my commandment, That ye love one another, as I have loved you."
+    },
+    {
+      "reference": "Acts 16:31",
+      "verse": "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house."
+    },
+    {
+      "reference": "Romans 3:23",
+      "verse": "For all have sinned, and come short of the glory of God;"
+    },
+    {
+      "reference": "Romans 5:8",
+      "verse": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+    },
+    {
+      "reference": "Romans 8:28",
+      "verse": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+    },
+    {
+      "reference": "Romans 12:12",
+      "verse": "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+    },
+    {
+      "reference": "1 Corinthians 13:4",
+      "verse": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,"
+    },
+    {
+      "reference": "1 Corinthians 13:13",
+      "verse": "And now abideth faith, hope, charity, these three; but the greatest of these is charity."
+    },
+    {
+      "reference": "1 Corinthians 15:57",
+      "verse": "But thanks be to God, which giveth us the victory through our Lord Jesus Christ."
+    },
+    {
+      "reference": "Ephesians 2:8",
+      "verse": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:"
+    },
+    {
+      "reference": "Ephesians 4:32",
+      "verse": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you."
+    },
+    {
+      "reference": "Philippians 4:6",
+      "verse": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+    },
+    {
+      "reference": "1 Thessalonians 5:18",
+      "verse": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+    },
+    {
+      "reference": "Hebrews 11:1",
+      "verse": "Now faith is the substance of things hoped for, the evidence of things not seen."
+    },
+    {
+      "reference": "James 1:5",
+      "verse": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+    },
+    {
+      "reference": "1 Peter 4:8",
+      "verse": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins."
+    },
+    {
+      "reference": "1 John 1:9",
+      "verse": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+    },
+    {
+      "reference": "Revelation 3:20",
+      "verse": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me."
+    }
+  ]
+}
