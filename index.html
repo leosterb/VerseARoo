@@ -11,7 +11,7 @@
 
 [hidden]{display:none!important}.game{min-width:0}.progress{gap:3px;margin:15px 0 20px}.segment{min-width:0;border-radius:3px}.stats{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;background:#f0f7f1;border:1px solid #dfede3;border-radius:14px;padding:10px 14px;margin-bottom:18px;font-size:.84rem}.stats strong{color:#165c62;font-size:1.06rem}.reference{margin-bottom:2px}.source{font-size:.72rem;color:#60767a;margin-bottom:12px}.puzzle{justify-content:flex-start;gap:9px 0;padding:18px 14px;min-height:140px}.word{gap:0;align-items:flex-end;max-width:none}.letter-box{display:grid;place-items:center;width:clamp(22px,2.3vw,31px);height:clamp(31px,3.3vw,40px);margin-right:2px;border:2px solid #b7d2ca;border-radius:6px;background:#fff;color:#176c70;font-weight:900;font-size:clamp(.83rem,1.8vw,1.17rem);text-transform:uppercase}.letter-box.revealed{background:#d8eee4;border-color:#58aaa2}.letter-box.shown-on-loss{background:#fae9e1;border-color:#e7a695;color:#914737}.punctuation{display:inline-flex;align-items:end;height:39px;padding:0 1px 3px 0;font-weight:900;font-size:1.17rem;color:#576c69}.word-gap{display:block;width:clamp(15px,2.4vw,24px);height:9px;margin:0 3px 1px 3px;border-bottom:3px dotted #6eaaa1;flex:none}.overlay{position:fixed;inset:0;z-index:10;display:grid;place-items:center;padding:18px;background:rgba(11,37,42,.72);backdrop-filter:blur(5px)}.modal{width:min(500px,100%);background:#fffdf8;border-radius:25px;padding:35px;box-shadow:0 30px 90px #06252e88;text-align:center}.modal-icon{font-size:2.7rem}.modal h2{font:700 clamp(2rem,5vw,2.8rem) Georgia,serif;margin:8px 0}.modal p{line-height:1.6;color:#567078}.modal .answer{font-weight:800;color:#176e72}.modal-stats{background:#eef7f1;border-radius:14px;padding:14px;margin:22px 0;font-size:1rem}.modal-stats strong{color:#176e72}.modal-actions{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}.modal-btn{border:0;background:#167c7e;color:white;border-radius:10px;font-weight:900;padding:11px 16px;box-shadow:0 4px 0 #0d555a}.modal-btn.secondary{background:#e7f0ea;color:#214c51;box-shadow:0 4px 0 #c5dcd2}@media(max-width:520px){.puzzle{padding:18px 8px}.letter-box{width:21px;height:31px;margin-right:1px;font-size:.82rem;border-radius:5px}.punctuation{height:31px}.word-gap{width:14px}.key{width:34px;height:39px}.stats{font-size:.72rem;gap:7px}.modal{padding:26px 18px}}
 </style>
-<link rel="stylesheet" href="game.css?v=collections-5">
+<link rel="stylesheet" href="game.css?v=version-names-6">
 </head>
 <body>
 <main id="landing" class="landing">
@@ -20,7 +20,7 @@
   <h1 id="welcomeTitle">A new verse.<br>A new adventure.</h1>
   <p>Choose your Bible version and challenge. Uncover 100 verses, one letter at a time.</p>
   <label for="versionChoice">Bible version</label>
-  <select id="versionChoice"><option value="esv" selected>ESV</option><option value="nlt">NLT</option><option value="nkjv">NKJV</option><option value="niv">NIV</option><option value="kjv">KJV</option></select>
+  <select id="versionChoice"><option value="esv" selected>ESV (English Standard Version)</option><option value="nlt">NLT (New Living Translation)</option><option value="nkjv">NKJV (New King James Version)</option><option value="niv">NIV (New International Version)</option><option value="kjv">KJV (King James Version)</option></select>
   <p id="poolInfo" class="selection-info" role="status">Loading stored collections…</p>
   <label for="difficultyChoice">Difficulty</label><select id="difficultyChoice"><option value="easy">Easy · fresh hearts each round</option><option value="hard">Hard · make every heart count</option></select>
   <p id="modeInfo" class="selection-info"></p>
@@ -54,7 +54,7 @@
   <div class="footer">100-round journeys · Stored verse collections · No verse API</div>
 </div>
 <div id="endScreen" class="overlay" role="dialog" aria-modal="true" aria-labelledby="endTitle" aria-describedby="endMessage" hidden><div class="modal"><div class="modal-icon" id="endIcon" aria-hidden="true">✦</div><h2 id="endTitle"></h2><p id="endMessage"></p><p class="verse-reference" id="endReference"></p><p class="answer" id="endAnswer"></p><div class="modal-stats" id="endStats"></div><div class="modal-actions"><button class="modal-btn" id="continue" type="button" hidden>Next verse →</button><button class="modal-btn" id="retry" type="button" hidden>Retry this verse</button><button class="modal-btn" id="playAgain" type="button" hidden>Play again · new 100</button><button class="modal-btn secondary" id="newRun" type="button" hidden>Version / mode</button></div></div></div>
-<script src="app.js?v=collections-5"></script>
+<script src="app.js?v=version-names-6"></script>
 <script type="module" src="mascot.bundle.js"></script>
 </body>
 </html>

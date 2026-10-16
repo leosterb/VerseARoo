@@ -1,6 +1,7 @@
 'use strict';
 let STORE='',BEST='';const SOUND='versearoo-sound-v2',RUN_LENGTH=100;
 let selectedVersion='esv',difficulty='easy';const catalogs=new Map();
+const VERSION_NAMES={"esv": "ESV (English Standard Version)", "nlt": "NLT (New Living Translation)", "nkjv": "NKJV (New King James Version)", "niv": "NIV (New International Version)", "kjv": "KJV (King James Version)"};
 const $=id=>document.getElementById(id);
 const ui={chapter:$('chapterLabel'),round:$('roundLabel'),progress:$('progress'),score:$('score'),high:$('highScore'),cleared:$('cleared'),reference:$('reference'),source:$('sourceLabel'),puzzle:$('puzzle'),status:$('status'),hearts:$('hearts'),keyboard:$('keyboard'),next:$('continue'),reset:$('reset'),sound:$('soundToggle'),overlay:$('endScreen'),title:$('endTitle'),icon:$('endIcon'),message:$('endMessage'),answer:$('endAnswer'),endReference:$('endReference'),stats:$('endStats'),retry:$('retry'),again:$('playAgain'),newRun:$('newRun'),roo:$('roo'),smile:$('smile')};
 let collection=[],fingerprint='',state=null,loading=false,best=0,soundOn=true,audio=null,requestId=0;
@@ -48,7 +49,7 @@ function showLanding(){
 function updateSelection(){
  const version=$('versionChoice').value,mode=$('difficultyChoice').value;
  const count=catalogs.get(version)?.length||0;
- $('poolInfo').textContent=count>=RUN_LENGTH?`${count} stored verses · 100 unique verses per run`:`${version.toUpperCase()} verse collection not added yet.`;
+ $('poolInfo').textContent=count>=RUN_LENGTH?'A fresh selection of verses for every journey.':`${version.toUpperCase()} verse collection not added yet.`;
  $('startGame').disabled=count<RUN_LENGTH;
  let saved=false;try{saved=!!localStorage.getItem(`versearoo-v3-${version}-${mode}`)}catch{}
  $('resumeGame').hidden=!saved||count<RUN_LENGTH;
@@ -77,8 +78,8 @@ async function init(){
    const data=await response.json();if(data.translation!==version)throw Error('Translation mismatch');
    const verses=validateCatalog(data);catalogs.set(version,verses);
    option.disabled=verses.length<RUN_LENGTH;
-   option.textContent=version.toUpperCase()+(option.disabled?' — awaiting verses':` — ${verses.length} verses`);
-  }catch{option.disabled=true;option.textContent=version.toUpperCase()+' — unavailable';}
+   option.textContent=VERSION_NAMES[version]+(option.disabled?' — awaiting verses':'');
+  }catch{option.disabled=true;option.textContent=VERSION_NAMES[version]+' — unavailable';}
  }));
  const playable=[...catalogs.keys()].filter(version=>catalogs.get(version).length>=RUN_LENGTH);
  if(!playable.includes($('versionChoice').value)&&playable.length)$('versionChoice').value=playable[0];
