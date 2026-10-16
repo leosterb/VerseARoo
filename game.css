@@ -112,3 +112,12 @@ body{background:radial-gradient(circle at 12% 10%,#373b73 0,transparent 29%),rad
  .board-header .source{display:none}.board-header .stats{padding:5px 8px}
  .board-header .section-head h2{font-size:1.1rem}
 }
+
+.landing{min-height:100vh;min-height:100dvh;display:grid;place-items:center;padding:24px;color:#eee9ff}
+.welcome{width:min(540px,100%);padding:clamp(22px,5vw,42px);border:1px solid #625b86;border-radius:28px;background:linear-gradient(150deg,#2c2c59,#191d3c);box-shadow:var(--shadow)}
+.welcome-star{font-size:2.4rem;color:#ffdb91}.welcome h1{font:700 clamp(2rem,6vw,3rem)/1.05 Georgia,serif;letter-spacing:-.04em;margin:16px 0}
+.welcome>p{color:#d5d2ee;line-height:1.5}.welcome label{display:block;font-size:.8rem;font-weight:900;color:#ffdb91;margin:18px 0 8px}
+.welcome select{width:100%;padding:12px;border:1px solid #8b82b8;background:#fffdf5;color:#28294e;font:inherit;border-radius:10px}
+.welcome .selection-info{font-size:.8rem;margin:8px 0;min-height:2.5em}.welcome-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px}
+.welcome button:disabled{opacity:.45;cursor:not-allowed}.welcome .welcome-note{font-size:.7rem;margin-bottom:0}
+@media(max-width:520px){.actions>div{gap:6px}.text-button{font-size:.6rem}.landing{padding:14px}.welcome{padding:22px}.welcome h1{font-size:2rem}}

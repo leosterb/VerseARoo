@@ -1,7 +1,7 @@
 'use strict';
 const http=require('node:http'),fs=require('node:fs'),path=require('node:path'),{spawn}=require('node:child_process');
 const root=__dirname;
-const files={'/':'index.html','/index.html':'index.html','/app.js':'app.js','/game.css':'game.css','/mascot.bundle.js':'mascot.bundle.js','/verses.json':'verses.json'};
+const files={'/':'index.html','/index.html':'index.html','/app.js':'app.js','/game.css':'game.css','/mascot.bundle.js':'mascot.bundle.js','/verses.json':'verses.json','/verses/nlt.json':'verses/nlt.json','/verses/nkjv.json':'verses/nkjv.json','/verses/esv.json':'verses/esv.json','/verses/niv.json':'verses/niv.json'};
 const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.json':'application/json; charset=utf-8'};
 const port=Number(process.env.PORT)||8765;
 const server=http.createServer((req,res)=>{
